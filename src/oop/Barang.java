@@ -49,6 +49,6 @@ public class Barang {
     // Override toString() untuk mencetak informasi barang
     @Override
     public String toString() {
-        return "Kategori: " + kategori + ", Nama: " + nama + ", Jumlah: " + jumlah;
+        return "Nama: " + nama + ", Jumlah: " + jumlah;
     }
 }
